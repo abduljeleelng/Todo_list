@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">To do</string>
+    <string name="btnSave">Save Items </string>
 </resources>
